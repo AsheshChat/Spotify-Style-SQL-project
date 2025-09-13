@@ -1,4 +1,4 @@
-# 🎵 Spotify-like Song Search Platform
+# 🎵 Spotify-like Song Search Platform (Intermediate Level)
 
 A **SQL database schema** simulating a music streaming platform with artists, songs, and play history.  
 Includes sample data and queries to demonstrate joins, aggregation, and ranking of top songs.  
